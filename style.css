@@ -25,6 +25,7 @@ h1 {
 	border-color: tomato;
 }
 
-#odpoved {
+#vysledek, #celkem {
+	padding-top: 50px;
 	text-align: center;
 }
